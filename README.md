@@ -23,7 +23,7 @@ Convert simple HTML file to WordPress theme in a simple word.
 
 - After uploading migration data, your personal data will be deleted from WordPress.
 
-- You can download and install the final theme ([HERE](/WP_theme\Simple_Theme.zip)) alone without completing the migration steps.
+- You can download and install the final theme ([HERE](/WP_theme/Simple_Theme.zip)) alone without completing the migration steps.
 
 - You can use ([this file](TEMPLATES_&_TAGS.pdf)) to learn and teach some of tags.
 
@@ -35,13 +35,13 @@ Convert simple HTML file to WordPress theme in a simple word.
 
 3- Go to plugins > Add new > Upload Plugin
 
-4- Select ([All-in-One WP Migration](Migration_plugin\all-in-one-wp-migration.7.44.zip)) and click to install now.
+4- Select ([All-in-One WP Migration](/Migration_plugin/all-in-one-wp-migration.7.44.zip)) and click to install now.
 
 5- After installing this plugin, active this.
 
 6- in the left panel, click All-in-One WP Migration > import.
 
-7- Click on import from file and select ([This file](/Migration_data\localhost-wordpress-20210617-224604-il15vl.wpress)
+7- Click on import from file and select ([This file](/Migration_data/localhost-wordpress-20210617-224604-il15vl.wpress)
 ).
 
 8- After complete this section, refresh the page and log in again.
