@@ -27,6 +27,8 @@ Convert simple HTML file to WordPress theme in a simple word.
 
 - You can use ([this file](TEMPLATES_&_TAGS.pdf)) to learn and teach some of tags.
 
+![picture alt](/Convert.jpg "Title is optional")
+
 ## Tutorial:
 
 1- Install WordPress on your localhost or login to your web hosting control panel.
