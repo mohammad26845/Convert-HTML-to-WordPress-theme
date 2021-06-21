@@ -15,7 +15,7 @@
 - - -
 **Convert simple HTML file to WordPress theme in a simple word.**
 
-![Screenshot](/screenshot.jpg "Screenshot")
+![Screenshot](/images/screenshot.jpg "Screenshot")
 
 - - -
 
@@ -33,7 +33,7 @@
 - - -
 <br>
 
-![HTML to WordPress](/Convert.jpg "HTML to WordPress")
+![HTML to WordPress](/images/Convert.jpg "HTML to WordPress")
 
 <br>
 
@@ -61,7 +61,7 @@
 
 <br>
 
-![Files](/Files.jpg "Files")
+![Files](/images/Files.jpg "Files")
 
 * **HTML Files =** ([In This Folder](/HTML_theme))
 * **WordPress Files =** ([In This Folder](/WP_theme))
