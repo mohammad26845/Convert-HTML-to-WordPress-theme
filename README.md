@@ -15,6 +15,10 @@
 - - -
 Convert simple HTML file to WordPress theme in a simple word.
 
+![Screenshot](/screenshot.jpg "Screenshot")
+
+- - -
+
 ## Notes:
 - This is not a complete project and can only be used to learn tags and training.
 - Test on an unused server.
@@ -27,7 +31,9 @@ Convert simple HTML file to WordPress theme in a simple word.
 
 - You can use ([this file](TEMPLATES_&_TAGS.pdf)) to learn and teach some of tags.
 
-![picture alt](/Convert.jpg "Title is optional")
+![HTML to WordPress](/Convert.jpg "HTML to WordPress")
+
+<br>
 
 ## Tutorial:
 
@@ -52,4 +58,10 @@ Convert simple HTML file to WordPress theme in a simple word.
 
 10- Congratulation! Done!
 
+<br>
+
+![Files](/Files.jpg "Files")
+
+* **HTML Files =** ([In This Folder](/HTML_theme))
+* **WordPress Files =** ([In This Folder](/WP_theme))
 
