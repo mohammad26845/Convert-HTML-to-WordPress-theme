@@ -13,7 +13,7 @@
 ![last-commit](https://img.shields.io/github/last-commit/mohammad26845/Convert-HTML-to-WordPress-theme)
 
 - - -
-Convert simple HTML file to WordPress theme in a simple word.
+**Convert simple HTML file to WordPress theme in a simple word.**
 
 ![Screenshot](/screenshot.jpg "Screenshot")
 
@@ -30,6 +30,8 @@ Convert simple HTML file to WordPress theme in a simple word.
 - You can download and install the final theme ([HERE](/WP_theme/Simple_Theme.zip)) alone without completing the migration steps.
 
 - You can use ([this file](TEMPLATES_&_TAGS.pdf)) to learn and teach some of tags.
+- - -
+<br>
 
 ![HTML to WordPress](/Convert.jpg "HTML to WordPress")
 
@@ -49,12 +51,11 @@ Convert simple HTML file to WordPress theme in a simple word.
 
 6- in the left panel, click All-in-One WP Migration > import.
 
-7- Click on import from file and select ([This file](/Migration_data/localhost-wordpress-20210617-224604-il15vl.wpress)
-).
+7- Click on import from file and select ([This file](/Migration_data/localhost-wordpress-20210617-224604-il15vl.wpress)).
 
 8- After complete this section, refresh the page and log in again.
 
-9- USERNAME = admin , PASSWORD = pass
+9- USERNAME = `admin` , PASSWORD = `pass`
 
 10- Congratulation! Done!
 
@@ -65,3 +66,6 @@ Convert simple HTML file to WordPress theme in a simple word.
 * **HTML Files =** ([In This Folder](/HTML_theme))
 * **WordPress Files =** ([In This Folder](/WP_theme))
 
+- - -
+
+To learn more about the WordPress template hierarchy, you can use the following website.(https://wphierarchy.com)
